@@ -600,6 +600,14 @@
     "logoURI": "https://tokens.julswap.com/images/0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110.png"
   },
   {
+    "name": "VIDT DAO",
+    "address": "0x9c4a515cd72D27A4710571Aca94858a53D9278D5",
+    "symbol": "VIDT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0x9c4a515cd72D27A4710571Aca94858a53D9278D5.png"
+  },
+  {
     "name": "ROOBEE",
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "symbol": "bROOBEE",
